@@ -151,6 +151,7 @@
     <ClCompile Include="Bloques.cpp" />
     <ClCompile Include="DataFile.cpp" />
     <ClCompile Include="Entradas.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="MapaBits.cpp" />
     <ClCompile Include="Menu.cpp" />
   </ItemGroup>
